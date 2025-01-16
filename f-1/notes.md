@@ -63,5 +63,17 @@ https://developer.mozilla.org/en-US/docs/Web/API/console
 -resolve
 -normalize
 
+*file systems*
+
+https://nodejs.org/api/fs.html
+
+
+*nodeJS http*
+
+- createServer
+- request
+- IncomingMessage
+- OutgoingMessage
+
 **web socket**
 
